@@ -9,3 +9,9 @@ each student and find out who is the elected President.
 The following are collected data.
 1. data/students.csv
 2. data/polls.csv
+
+### Requirement
+* Pandas
+
+### How to Run
+Run `student_union_president_selection.ipynb` to check and see the result of selection.
